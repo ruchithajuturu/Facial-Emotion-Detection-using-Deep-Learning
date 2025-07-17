@@ -1,4 +1,3 @@
-# Emotion detection using deep learning
 
 # 😃 Facial Emotion Detection using Deep Learning
 
